@@ -1,0 +1,35 @@
+body{
+  background-color:#FFF8EA;
+
+}
+
+h1{
+  color:#CC9B6D;
+}
+h3{
+    color:#CC9B6D;
+}
+h2{
+    color:#CC9B6D;
+}
+
+img:hover{
+  background-color:silver;
+}
+
+
+
+
+hr{
+  background-color:#FFF8EA;
+  border-style:dotted none none;
+  border-width:5px;
+  border-color:black;
+  /* first value:top
+  second value:right;
+  third:left; */
+
+
+  height:1px;
+  width:10%;
+}
